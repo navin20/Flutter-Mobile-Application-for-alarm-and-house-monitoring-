@@ -4,4 +4,4 @@
 
   ## it uses firebase firestore data for monitoring and firebase authentication for login and register .
 
-<a href="https://drive.google.com/uc?export=view&id=1jvsT8C4WcFtyEMsLVD0LQRQyANYLfRgf">
+<a href="https://drive.google.com/uc?export=view&id=1jvsT8C4WcFtyEMsLVD0LQRQyANYLfRgf"/>
